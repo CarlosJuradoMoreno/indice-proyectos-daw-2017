@@ -14,6 +14,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 
 * [Castillo Santana, Junior Miguel - Inmobiliaria](https://github.com/juniorcastillo/inmobiliaria)
 * [Gutierrez Luna, María Belén - TRAVEL-AGENCY-MX](https://github.com/BelenGutierrez/TRAVEL-AGENCY-MX)
+* [Jurado Moreno, Carlos - KZM-Travel](https://github.com/CarlosJuradoMoreno/KZM-Travel)
 * [Moreno Hernández, Eduardo Jesús - PROTUBE](https://github.com/EduMoreno/Proyecto-Final-DAW2-PROTUBE-)
 * [Pastor Rueda, Daniel - Coolmena](http://beta.coolmena.com) (codigo fuente en formato comprimido, por privacidad)
 * [Rodríguez Naranjo, Moisés - Hotel Fuente Alegre](https://github.com/MoisesRodriguezN/ProyectoFinalWeb)
